@@ -1,5 +1,5 @@
 # Turkey Graduate School Requirements
-This repository contains the requirements of some of the top universities' master and PhD programs
+This repository contains the requirements of some of the top universities' master and PhD programs. Pull requests are welcomed. 
 
 | University Name      | Program | GPA         | TOEFL | YDS | GRE         | ALES        | Early Deadline | Regular Deadline | Stipend                                                                 | Info Link |
 |----------------------|---------|-------------|-------|-----|-------------|-------------|----------------|------------------|-------------------------------------------------------------------------|-----------|
