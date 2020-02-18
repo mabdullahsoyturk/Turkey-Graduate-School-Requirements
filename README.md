@@ -12,3 +12,7 @@ This repository contains the requirements of some of the top universities' maste
 | METU                 | M.S     | 2.50        | 79    |     | 144         | 60          | Not available  | Not available    | Maybe assistantship                                                     | [Link](https://ncc.metu.edu.tr/graduate/admission-requirements#mscng)      |
 | Sabanci University  | M.S     | Unspecified | 80    | 67  | 153         | 65          | Not available  | Not available    | 2500TL(10 months) + dorm                                                | [Link](https://www.sabanciuniv.edu/en/admission-to-graduate-programs)      |
 | Sabanci University  | PhD     | Unspecified | 80    | 67  | 158         | 65          | Not available  | Not available    | 3000TL(12 months) + dorm                                                | [Link](https://www.sabanciuniv.edu/en/admission-to-graduate-programs)      |
+
+## To Do
+
+* Add IELTS column.
