@@ -1,3 +1,7 @@
+# Important Note
+
+I prepared this when I was actively applying for grad schools. Hence, the information below is probably outdated. Make sure to check the university website for the latest information.
+
 # Turkey Graduate School Requirements
 This repository contains the requirements of some of the top universities' computer science master and PhD programs. Pull requests are welcomed. 
 
